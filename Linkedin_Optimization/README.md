@@ -1,4 +1,4 @@
-# Optimize & Grow in your LinkedIn
+# Optimize & Grow on your LinkedIn
 
 ## Optimization
 
@@ -31,6 +31,19 @@
 
 * Ensure to add top projects with a clean and concise explanation about them.
 
+
+## 🫣 How to Grow 🚀
+
+* Share and engage with the posts, share some about your experiences, or if you don't have any, then share something helpful or motivating thoughts.
+* Never share unprofessional stuff (** Keep in mind that is not Instagram or Facebook).
+* Share Valuable content and send connection requests to your niche professional or interested industry people.
+
+
+🕐 Remember, the results only get in the long term, take action ✅
+
+Thank you 😊
+
+  
 
 
 
