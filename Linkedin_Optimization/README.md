@@ -1,7 +1,6 @@
 # Optimize & Grow on your LinkedIn
 
 ## Optimization
-
 ### 👉 Optimize your LinkedIn profile URL by setting the clean and professional name
 
 - Initially, LinkedIn is assigned to a random URL but you have to make sure that the URL should look good.
