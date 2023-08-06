@@ -19,7 +19,7 @@
 * Make sure to use a professional profile pic.
 
 ### Skills
-![Example-of-Great-LinkedIn-Headline-Score-HeadlineAnalyzer io_](https://github.com/Saivaraprasad48/Social_Optimization/assets/93783719/fe33f40e-28e2-4084-9294-70b55dcf60be)
+![skills-and-endorsments-linkedin](https://github.com/Saivaraprasad48/Social_Optimization/assets/93783719/120bd7dd-edb5-4410-91de-3236ea224df3)
 * Add your skill and try to get some endorsed counts on your skills.  
 
 ### Work Experience
@@ -28,6 +28,7 @@
 
 ### Projects
 <img width="240" alt="kh-linkedin-projects-section" src="https://github.com/Saivaraprasad48/Social_Optimization/assets/93783719/531db80a-a697-4b9c-95ac-52c3b81fcba7">
+
 * Ensure to add top projects with a clean and concise explanation about them.
 
 
