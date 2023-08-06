@@ -10,16 +10,16 @@
 
 ### 👉 Ensure your profile format is well-presented
 
-#### Use a conventional headline
-- Make sure to use professional headlines about you and what you have done in past experiences and highlight your top metrics.
-#### Use an authentic profile
-- Make sure to use a professional profile pic
-#### Skills
-- Add your skill and try to get some endorsed counts on your skills  
-#### Work Experience
-- Appropriately mention your skills and what you have developed and what are the outcomes.
-#### Projects
-- Ensure to add top projects with a clean and concise explanation about them.
+### Use a conventional headline
+* Make sure to use professional headlines about you and what you have done in past experiences and highlight your top metrics.
+### Use an authentic profile
+* Make sure to use a professional profile pic
+### Skills
+* Add your skill and try to get some endorsed counts on your skills  
+### Work Experience
+* Appropriately mention your skills and what you have developed and what are the outcomes.
+### Projects
+* Ensure to add top projects with a clean and concise explanation about them.
 
 
 
